@@ -1,5 +1,5 @@
 
-node ('master'){
+node ('slave1'){
 //define app url for component tests
     def APP_URL=""
     def svcName = 'orders'
